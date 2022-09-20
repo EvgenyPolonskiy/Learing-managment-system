@@ -1,10 +1,10 @@
-package ru.polonskiy.learningmanagmentsystem;
+package ru.polonskiy.learningmanagementsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearningManagmentSystemApplicationTests {
+class LearningManagementSystemApplicationTests {
 
     @Test
     void contextLoads() {

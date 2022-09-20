@@ -1,13 +1,13 @@
-package ru.polonskiy.learningmanagmentsystem;
+package ru.polonskiy.learningmanagementsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearningManagmentSystemApplication {
+public class LearningManagementSystemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LearningManagmentSystemApplication.class, args);
+        SpringApplication.run(LearningManagementSystemApplication.class, args);
     }
 
 }
